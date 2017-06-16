@@ -1,0 +1,45 @@
+
+
+
+
+
+
+This game is going to be based off of an IOS and Android game called Prune.
+Prune is a game in which the player cuts a tree in different areas to control its growth to solve levels and avoid dangerous areas.
+
+
+Positive Features:
+1. This game has a very smooth, and intuitive way to cut the tree to shape it. It allows a player to have a lot of control in how the tree grows
+2. The levels of the game have a desirable level of difficulty, as well as they increase their difficulty at a good rate.
+3. Many of the levels have secondary objectives which can be completed. This allows for those who have already played the game to have a new sense of excitement
+4. The game has an art style that is very relaxing and fits the style of the game. It allows you to understand what is happening without the need of many colors.
+5. The ability to start a new tree from a different predestined spot is a really cool idea.
+6. The tree that is created is very lifelike as well as it is not very predictable in its growth
+
+Negative Features:
+1. The game has an end, and it occurs fairly quickly. There are about 30 or so levels which do not take that long to finish, leaving the player wanting more
+2. The game sometimes feels as though it could be benefited from more features within the game, such as a level editor, or special powers which could be used
+
+Another way to produce trees is using a fractal method as well as procedural generation
+https://www.youtube.com/watch?v=yWRFCSIzej0
+http://www.annaflagg.com/work/fractaltrees/
+
+Positives:
+1. This allows for the creation of a tree which is very complex and can be changed by altering parameters
+2. It grows from bottom - up, which translates to natural growing motion
+
+Negatives:
+1. Not really any negatives here
+
+The last way to produce a tree is by using turtle graphics and using a recursive, fractal method.
+
+Positive:
+1. Creates a tree which is has a fair amount of branches and is complex enough.
+2. If you were to cut off a branch, the tree would start to grow in the opposite direction, which is how pruning works
+
+Negative:
+1. It can be fairly predictable in its formation
+2. The tree is grown one branch at a time, rather than growing out evenly. This would maybe a bad way to 'grow' a tree as it would be grown very unevenly.
+3. All of the foliage ends up at the same level, which is not necessarily the type of tree which I want to create
+
+There are no other game like Prune out in the market currently, nor are there many other projects that produce a tree graphically.

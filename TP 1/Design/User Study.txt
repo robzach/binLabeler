@@ -1,0 +1,22 @@
+Comments:
+
+- more colorful trees
+- get level editor working
+- level selector
+- more game mechanics
+- slow down the game
+
+Achieved:
+
+- level editor is functioning normally and is able to produce new levels for the player
+
+- Level selector was included and allows players to selcet a level and play starting from that level
+
+- Wind was added to the game to increase the challenge, and playability, of the game
+
+- decreased the fps and also decreased the rate at which flowers spawned
+
+Attempted:
+
+- Colorful trees were explored, and alhough in some cases it was better than the current drawing, most often,
+the tree was not as aesthetically apealling compared to its solid color cousin.

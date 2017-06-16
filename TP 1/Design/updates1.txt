@@ -1,0 +1,17 @@
+Spalsh Screens:
+added menu screen
+added help screen
+
+Game:
+made cutting tool and tree falling charecteristics
+made disease charecteristics
+added flowering
+added 'stars'
+made sample level
+implemented user starting position and angle
+implemented tree-map interaction
+	- red causing disease
+	- black auto cutting tree
+	- shade not letting flowers grow
+	- sun allowing for flower growth
+added music

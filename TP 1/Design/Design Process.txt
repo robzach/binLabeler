@@ -1,0 +1,34 @@
+The Game:
+
+Basically what happens is that the player will be given a map, with different obstacles that need to be avoided
+and other objects that can be manipulated in order to grow enough flowers to solve the level. With this, the player
+will be able to begin the growth of tree and specify the starting angle of the tree. The player will then be able
+to cut different branches off the tree in order to shape the tree in the direction the player wants to go in order
+to solve the puzzle. This game also has within it, a level editor, so that a player could create their own
+levels that could then be played.
+
+When growing the tree, should it contact the map, that branch will break off and that branch will not continue to
+grow. Different areas of the map may contain areas which are colored red, in contrast to the black map, which, if
+the branches were to contact this red area, the branches would become diseased and that disease would spread
+throughout the tree. Once the tree has been completely infected, it is dead and the player must restart the level.
+The tree's growth can also be affected by the presence of wind which is randomly generated for each level.
+
+UI:
+
+The first thing that greets the user is a pleasent and relaxing piece of music that loops while the game is open.
+This, along with a calming color pallet, sets the mood for a relaxing game and adds to its immersion
+
+Since the premise of this game is not necessarily well known, this game contains many help screens which
+aids the user in understanding game mechanics and how to use the level editor.
+
+The main screen has a few options: start, help, the editor, and level selection. On the main screen is also
+a randomly generated tree which grows, and as it is filled with flowers, it changes the color of the text for
+each button. This makes the main screen not only active, but it gives an idea of what is happening in the game
+for those who do not understand it already.
+
+Help Screens:
+The two help screens that are supplied are very in depth and allow players to look back at them regularily if
+they feel as though they need a refresher
+
+
+

@@ -1,0 +1,19 @@
+Proposal:
+The idea for this term project, at its core, is to create a game in which you get to grow a tree to solve puzzles.
+
+Basically what will happen is that the player will be given a map, with different obstacles that need to be avoided
+and other objects that can be manipulated in order to grow enough flowers to solve the level. With this, the player
+will be able to begin the growth of tree and specify the starting angle of the tree. The player will then be able
+to cut different branches off the tree in order to shape the tree in the direction the player wants to go in order
+to solve the puzzle. This game will also have within it, a level editor, so that a player could create their own
+levels that could then be played. A stretch goal is to be able to have the game procedurally generate the levels
+to allow for infinite playability.
+
+When growing the tree, should it contact the map, that branch will break off and that branch will not continue to
+grow. Different areas of the map may contain areas which are colored red, in contrast to the black map, which, if
+the branches were to contact this red area, the branches would become diseased and that disease would spread
+throughout the tree. Once the tree has been completely infected, it is dead and the player must restart the level.
+The map may also contain areas which can be used to grow a second tree, but may only be used once the player grows
+a tree close enough to 'pollinate' that area.
+
+This game will use Pygame as well as PIL
