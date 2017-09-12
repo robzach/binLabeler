@@ -4,7 +4,9 @@
 """
 bin labeler
 for Physical Computing lab in IDeATe, Carnegie Mellon University
-by Jake Zimmer
+by Jake Zimmer and Robert Zacharias
+
+NOTE: this script runs in Python 2.7, not in 3.6 for me (rz)
 
 v 0.3 6-17-17
     able to generate tags with pygame and save them under the 'Tags' folder
@@ -15,6 +17,14 @@ v 0.3 6-17-17
         picName is the picture of the item
         qrName is the qr code
         debug flags added: printErrors, printMessages, showStuff, autoQuit
+
+v. 0.31 9-12-17
+    changed tkinter to Tkinter so it would run
+    added rz to author listing at top, and Python versioning note
+    TO DO:
+        stop creating numTag.jpeg (a spurious output) when this runs
+        tweak tag formatting
+        merge csv reading with relevant progress from partsPages side of the project (https://github.com/robzach/partsPages/blob/master/partsToJekyllPages/partsToJekyllPages.py)
 
 """
 import pip
@@ -27,7 +37,7 @@ pip.main(['install', 'pygame'])
 
 import csv
 import os.path
-from tkinter import *
+from Tkinter import *
 import pyscreenshot
 from PIL import Image, ImageTk
 import qrcode
